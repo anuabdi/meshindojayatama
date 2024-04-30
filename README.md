@@ -1,2 +1,4 @@
-# meshindojayatama
-sample design web for meshindo jayatama
+# Halo Dunia 👋🏻
+Selamat datang & salam kenal
+
+`Meshindo Jayatama`
